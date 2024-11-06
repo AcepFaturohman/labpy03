@@ -42,7 +42,7 @@ Penjelasan Fungsi random.uniform(a, b):
 
 **Hasil dari latihan 2**
 
-![latihan2 py](https://github.com/user-attachments/assets/fc138eab-f6ce-46f8-a2af-1cbb6a9d9101)
+![latihan2 py](https://github.com/user-attachments/assets/e1b7689a-f76c-4354-b4d1-b712110dfb2e)
 
 **Code**
 ```
@@ -95,7 +95,7 @@ o	Jika bulan 8, laba adalah 200.000.000.
 
 **Hasil dari latihan 3**
 
-![latihan3 py](https://github.com/user-attachments/assets/06358f75-7f54-4b30-ad6d-51f254958b39)
+![latihan3 py](https://github.com/user-attachments/assets/9e928c2f-7206-4c17-b7e1-6cd3d74a4ffc)
 
 **Code**
 ```
